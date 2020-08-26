@@ -4,4 +4,4 @@ With this Shell Script you can create a user in Linux and generate a PEM file
 # Creating a User
 Just execute the command:
 
-```./createUser.sh```
+```sudo sh createUser.sh```
